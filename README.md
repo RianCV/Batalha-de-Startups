@@ -1,7 +1,8 @@
 # Exercício Técnico DELL
 ## Participante: Rian Cordoni da Veiga
 
-Este projeto é uma aplicação em *Python* utilizando *Flask*, *Flask-SQLAlchemy* e integração com o *Ollama*, além de *html*, *CSS* e *Javascript* para a interface web.
+Este projeto faz parte de um exercício técnico para a empresa DELL.
+Se trata de uma aplicação em *Python* utilizando *Flask*, *Flask-SQLAlchemy* e integração com o *Ollama*, além de *html*, *CSS* e *Javascript* para a interface web.
 
 ## Instalação
 
